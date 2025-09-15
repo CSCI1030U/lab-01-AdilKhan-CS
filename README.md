@@ -1,6 +1,6 @@
 # Lab 01 - Git, GitHub, and GitHub Classroom
 
-In this lab, we'll learn how to use the Git version control system, how to use the GitHub remote repository system, and we'll submit this assignment to invole the auto-grader for these lab assignments by writing and submitting a simple Python program.
+In this lab, we'll learn how to use the Git version control system, how to use the GitHub remote repository system, and we'll submit this assignment to involve the auto-grader for these lab assignments by writing and submitting a simple Python program.
 
 _**Note:** The use of an auto-grading system was decided in order to ensure that as much of the lab instructor's time was available for student help as possible.  This lab assignment's primary goal is to familiarize you with the tools required to use GitHub Classroom.  As a bonus, Git, GitHub, and pytest are all tools widely used in industry.  You will use Git and GitHub frequently over the next four years._
 
